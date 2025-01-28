@@ -2,9 +2,10 @@
 
 <br>
 
-### 🌌 What I'm up to right now~ 🌌
+### 🌌 What I'm up to~ 🌌
 
-- Right now, I'm trying to learn more about programming so I can have fun making things and contribute to cool stuff!
+- Right now, I'm trying to learn more about programming so I can have fun making
+  things and contribute to cool stuff!
 
 <br>
 
